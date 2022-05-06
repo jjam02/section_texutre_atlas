@@ -1,2 +1,2 @@
-# section_texutre_atlas
-turning in a section a assignment for the texture atlas
+# CloudsyAtlas
+A project demonstrating the use of sprite atlases in Phaser 3.
